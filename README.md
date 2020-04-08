@@ -7,4 +7,4 @@ We also include the option of using different activation functions (sigmoid, tan
 The path of the parameters (the weight W and bias b) in parameter space during training is plotted to demonstrate the difference in behaviour between stochastic gradient descent, batch method and full gradient descent.
 
 
-Thanks to Steven Elsworth (https://github.com/StevenElsworth) for his helpful comments and advice on this example.
+Thanks to [Steven Elsworth](https://github.com/StevenElsworth) for his helpful comments and advice on this example.
